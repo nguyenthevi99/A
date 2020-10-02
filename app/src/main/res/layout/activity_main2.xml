@@ -98,7 +98,7 @@
             android:layout_marginStart="16dp"
             android:text="Password length"
             android:textColor="#FBFAFA"
-            android:textSize="24sp"
+            android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintBaseline_toBaselineOf="@+id/editTextTextPersonName2"
             app:layout_constraintStart_toStartOf="parent" />
